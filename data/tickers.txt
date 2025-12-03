@@ -1,0 +1,504 @@
+No	Symbol	Company Name	Market Cap	Stock Price	Industry	Sector
+1	NVDA	NVIDIA Corporation	4.36T	179.23	Semiconductors	Technology
+2	AAPL	Apple Inc.	4.16T	281.83	Consumer Electronics	Technology
+3	GOOG	Alphabet Inc.	3.86T	316.31	Internet Content & Information	Communication Services
+4	GOOGL	Alphabet, Inc.	3.82T	316.20	Internet Content & Information	Communication Services
+5	MSFT	Microsoft Corporation	3.62T	487.73	Software - Infrastructure	Technology
+6	AMZN	Amazon.com, Inc.	2.50T	234.20	Internet Retail	Consumer Discretionary
+7	AVGO	Broadcom Inc.	1.82T	385.50	Semiconductors	Technology
+8	META	Meta Platforms, Inc.	1.62T	641.09	Internet Content & Information	Communication Services
+9	TSLA	Tesla, Inc.	1.43T	428.61	Auto Manufacturers	Consumer Discretionary
+10	BRK.B	Berkshire Hathaway Inc.	1.11T	509.84	Insurance - Diversified	Financials
+11	LLY	Eli Lilly and Company	948.28B	1,059.08	Drug Manufacturers - General	Healthcare
+12	WMT	Walmart Inc.	888.37B	111.43	Discount Stores	Consumer Staples
+13	JPM	JPMorgan Chase & Co.	840.77B	308.85	Banks - Diversified	Financials
+14	V	Visa Inc.	634.47B	331.47	Credit Services	Financials
+15	ORCL	Oracle Corporation	572.24B	200.73	Software - Infrastructure	Technology
+16	JNJ	Johnson & Johnson	496.41B	206.04	Drug Manufacturers - General	Healthcare
+17	XOM	Exxon Mobil Corporation	492.69B	116.83	Oil & Gas Integrated	Energy
+18	MA	Mastercard Incorporated	489.11B	544.67	Credit Services	Financials
+19	NFLX	Netflix, Inc.	462.67B	109.19	Entertainment	Communication Services
+20	COST	Costco Wholesale Corporation	404.48B	912.68	Discount Stores	Consumer Staples
+21	PLTR	Palantir Technologies Inc.	398.84B	167.34	Software - Infrastructure	Technology
+22	ABBV	AbbVie Inc.	396.78B	224.50	Drug Manufacturers - General	Healthcare
+23	BAC	Bank of America Corporation	389.30B	53.31	Banks - Diversified	Financials
+24	HD	The Home Depot, Inc.	357.45B	359.06	Home Improvement Retail	Consumer Discretionary
+25	AMD	Advanced Micro Devices, Inc.	357.16B	219.38	Semiconductors	Technology
+26	PG	The Procter & Gamble Company	346.35B	148.22	Household & Personal Products	Consumer Staples
+27	KO	The Coca-Cola Company	310.06B	72.08	Beverages - Non-Alcoholic	Consumer Staples
+28	CVX	Chevron Corporation	307.32B	152.63	Oil & Gas Integrated	Energy
+29	GE	General Electric Company	304.76B	288.93	Aerospace & Defense	Industrials
+30	CSCO	Cisco Systems, Inc.	301.17B	76.23	Communication Equipment	Technology
+31	UNH	UnitedHealth Group Incorporated	294.76B	325.40	Healthcare Plans	Healthcare
+32	IBM	International Business Machines Corporation	284.81B	304.70	Information Technology Services	Technology
+33	MU	Micron Technology, Inc.	269.08B	239.72	Semiconductors	Technology
+34	MS	Morgan Stanley	268.02B	168.64	Capital Markets	Financials
+35	WFC	Wells Fargo & Company	267.86B	85.33	Banks - Diversified	Financials
+36	CAT	Caterpillar Inc.	266.26B	568.95	Farm & Heavy Construction Machinery	Industrials
+37	GS	The Goldman Sachs Group, Inc.	254.57B	811.45	Capital Markets	Financials
+38	MRK	Merck & Co., Inc.	253.34B	102.07	Drug Manufacturers - General	Healthcare
+39	AXP	American Express Company	249.36B	361.99	Credit Services	Financials
+40	PM	Philip Morris International Inc.	243.52B	156.44	Tobacco	Consumer Staples
+41	TMUS	T-Mobile US, Inc.	231.27B	206.77	Telecom Services	Communication Services
+42	RTX	RTX Corporation	226.55B	168.97	Aerospace & Defense	Industrials
+43	ABT	Abbott Laboratories	223.24B	128.38	Medical Devices	Healthcare
+44	CRM	Salesforce, Inc.	221.34B	232.50	Software - Application	Technology
+45	TMO	Thermo Fisher Scientific Inc.	219.44B	584.08	Diagnostics & Research	Healthcare
+46	MCD	McDonald's Corporation	216.51B	304.02	Restaurants	Consumer Discretionary
+47	APP	AppLovin Corporation	210.54B	622.99	Advertising Agencies	Communication Services
+48	PEP	PepsiCo, Inc.	206.92B	149.60	Beverages - Non-Alcoholic	Consumer Staples
+49	AMAT	Applied Materials, Inc.	203.02B	254.84	Semiconductor Equipment & Materials	Technology
+50	ISRG	Intuitive Surgical, Inc.	201.55B	568.54	Medical Instruments & Supplies	Healthcare
+51	LRCX	Lam Research Corporation	194.09B	154.53	Semiconductor Equipment & Materials	Technology
+52	LIN	Linde plc	190.99B	409.01	Specialty Chemicals	Materials
+53	INTC	Intel Corporation	190.68B	39.98	Semiconductors	Technology
+54	DIS	The Walt Disney Company	189.97B	106.41	Entertainment	Communication Services
+55	C	Citigroup Inc.	183.67B	102.65	Banks - Diversified	Financials
+56	T	AT&T Inc.	182.48B	25.74	Telecom Services	Communication Services
+57	AMGN	Amgen Inc.	181.21B	336.52	Drug Manufacturers - General	Healthcare
+58	BX	Blackstone Inc.	180.28B	146.67	Asset Management	Financials
+59	UBER	Uber Technologies, Inc.	180.02B	86.64	Software - Application	Technology
+60	QCOM	QUALCOMM Incorporated	179.75B	168.04	Semiconductors	Technology
+61	NEE	NextEra Energy, Inc.	177.06B	85.02	Utilities - Regulated Electric	Utilities
+62	INTU	Intuit Inc.	175.46B	630.53	Software - Application	Technology
+63	VZ	Verizon Communications Inc.	171.74B	40.73	Telecom Services	Communication Services
+64	APH	Amphenol Corporation	170.44B	139.24	Electronic Components	Technology
+65	NOW	ServiceNow, Inc.	170.22B	820.42	Software - Application	Technology
+66	BLK	BlackRock, Inc.	169.98B	1,041.91	Asset Management	Financials
+67	TJX	The TJX Companies, Inc.	168.58B	151.47	Apparel Retail	Consumer Discretionary
+68	SCHW	The Charles Schwab Corporation	165.10B	92.91	Capital Markets	Financials
+69	ANET	Arista Networks Inc	161.54B	128.28	Computer Hardware	Technology
+70	ACN	Accenture plc	159.75B	257.61	Information Technology Services	Technology
+71	DHR	Danaher Corporation	158.59B	224.52	Diagnostics & Research	Healthcare
+72	BKNG	Booking Holdings Inc.	157.56B	4,888.00	Travel Services	Consumer Discretionary
+73	GEV	GE Vernova Inc.	156.90B	578.30	Specialty Industrial Machinery	Industrials
+74	GILD	Gilead Sciences, Inc.	154.14B	124.24	Drug Manufacturers - General	Healthcare
+75	TXN	Texas Instruments Incorporated	153.19B	168.60	Semiconductors	Technology
+76	KLAC	KLA Corporation	151.74B	1,154.86	Semiconductor Equipment & Materials	Technology
+77	SPGI	S&P Global Inc.	150.74B	497.83	Financial Data & Stock Exchanges	Financials
+78	BSX	Boston Scientific Corporation	149.85B	101.08	Medical Devices	Healthcare
+79	PFE	Pfizer Inc.	143.79B	25.29	Drug Manufacturers - General	Healthcare
+80	BA	The Boeing Company	142.61B	187.62	Aerospace & Defense	Industrials
+81	SYK	Stryker Corporation	142.55B	372.76	Medical Devices	Healthcare
+82	COF	Capital One Financial Corporation	140.78B	221.44	Credit Services	Financials
+83	WELL	Welltower Inc.	140.44B	204.62	REIT - Healthcare Facilities	Real Estate
+84	LOW	Lowe's Companies, Inc.	138.79B	247.42	Home Improvement Retail	Consumer Discretionary
+85	UNP	Union Pacific Corporation	137.88B	232.45	Railroads	Industrials
+86	ADBE	Adobe Inc.	135.02B	322.55	Software - Application	Technology
+87	PGR	The Progressive Corporation	134.60B	229.55	Insurance - Property & Casualty	Financials
+88	MDT	Medtronic plc	133.10B	103.82	Medical Devices	Healthcare
+89	ETN	Eaton Corporation plc	132.73B	341.73	Specialty Industrial Machinery	Industrials
+90	PANW	Palo Alto Networks, Inc.	130.97B	187.90	Software - Infrastructure	Technology
+91	ADI	Analog Devices, Inc.	130.22B	265.95	Semiconductors	Technology
+92	DE	Deere & Company	127.25B	470.72	Farm & Heavy Construction Machinery	Industrials
+93	CRWD	CrowdStrike Holdings, Inc.	126.08B	502.41	Software - Infrastructure	Technology
+94	PLD	Prologis, Inc.	123.24B	129.56	REIT - Industrial	Real Estate
+95	HON	Honeywell International Inc.	121.12B	190.78	Conglomerates	Industrials
+96	CB	Chubb Limited	115.98B	294.69	Insurance - Property & Casualty	Financials
+97	HCA	HCA Healthcare, Inc.	115.74B	507.18	Medical Care Facilities	Healthcare
+98	CEG	Constellation Energy Corporation	112.28B	359.55	Utilities - Independent Power Producers	Utilities
+99	COP	ConocoPhillips	111.76B	90.44	Oil & Gas Exploration & Production	Energy
+100	HOOD	Robinhood Markets, Inc.	111.37B	123.86	Capital Markets	Financials
+101	KKR	KKR & Co. Inc.	108.84B	122.11	Asset Management	Financials
+102	PH	Parker-Hannifin Corporation	108.58B	860.49	Specialty Industrial Machinery	Industrials
+103	VRTX	Vertex Pharmaceuticals Incorporated	107.83B	424.98	Biotechnology	Healthcare
+104	MCK	McKesson Corporation	106.64B	864.00	Medical Distribution	Healthcare
+105	ADP	Automatic Data Processing, Inc.	103.42B	255.71	Software - Application	Technology
+106	LMT	Lockheed Martin Corporation	102.10B	441.22	Aerospace & Defense	Industrials
+107	CME	CME Group Inc.	101.05B	280.24	Financial Data & Stock Exchanges	Financials
+108	CVS	CVS Health Corporation	100.54B	79.20	Healthcare Plans	Healthcare
+109	NEM	Newmont Corporation	100.35B	91.96	Gold	Materials
+110	BMY	Bristol-Myers Squibb Company	99.63B	48.94	Drug Manufacturers - General	Healthcare
+111	MO	Altria Group, Inc.	99.26B	59.13	Tobacco	Consumer Staples
+112	SO	The Southern Company	98.35B	89.32	Utilities - Regulated Electric	Utilities
+113	NKE	NIKE, Inc.	97.13B	65.71	Footwear & Accessories	Consumer Discretionary
+114	CMCSA	Comcast Corporation	96.80B	26.57	Telecom Services	Communication Services
+115	SBUX	Starbucks Corporation	96.69B	85.03	Restaurants	Consumer Discretionary
+116	DUK	Duke Energy Corporation	94.31B	121.27	Utilities - Regulated Electric	Utilities
+117	TT	Trane Technologies plc	91.49B	412.59	Building Products & Equipment	Industrials
+118	MMM	3M Company	90.75B	170.84	Conglomerates	Industrials
+119	MMC	Marsh & McLennan Companies, Inc.	90.13B	183.98	Insurance Brokers	Financials
+120	GD	General Dynamics Corporation	90.12B	334.14	Aerospace & Defense	Industrials
+121	ICE	Intercontinental Exchange, Inc.	89.63B	157.20	Financial Data & Stock Exchanges	Financials
+122	DASH	DoorDash, Inc.	88.64B	205.66	Internet Retail	Consumer Discretionary
+123	DELL	Dell Technologies Inc.	88.08B	131.43	Computer Hardware	Technology
+124	WM	Waste Management, Inc.	87.42B	217.00	Waste Management	Industrials
+125	MCO	Moody's Corporation	87.33B	489.53	Financial Data & Stock Exchanges	Financials
+126	ORLY	O'Reilly Automotive, Inc.	86.01B	101.89	Auto Parts	Consumer Discretionary
+127	SHW	The Sherwin-Williams Company	84.45B	342.66	Specialty Chemicals	Materials
+128	CDNS	Cadence Design Systems, Inc.	84.15B	309.16	Software - Application	Technology
+129	AMT	American Tower Corporation	82.70B	176.65	REIT - Specialty	Real Estate
+130	MAR	Marriott International, Inc.	81.79B	304.79	Lodging	Consumer Discretionary
+131	SNPS	Synopsys, Inc.	81.46B	438.56	Software - Infrastructure	Technology
+132	UPS	United Parcel Service, Inc.	81.05B	95.53	Integrated Freight & Logistics	Industrials
+133	HWM	Howmet Aerospace Inc.	80.23B	199.55	Aerospace & Defense	Industrials
+134	NOC	Northrop Grumman Corporation	78.28B	548.51	Aerospace & Defense	Industrials
+135	BK	The Bank of New York Mellon Corporation	78.10B	112.00	Banks - Diversified	Financials
+136	ECL	Ecolab Inc.	77.62B	274.06	Specialty Chemicals	Materials
+137	REGN	Regeneron Pharmaceuticals, Inc.	77.00B	750.46	Biotechnology	Healthcare
+138	USB	U.S. Bancorp	76.87B	49.45	Banks - Regional	Financials
+139	TDG	TransDigm Group Incorporated	76.41B	1,356.82	Aerospace & Defense	Industrials
+140	APO	Apollo Global Management, Inc.	76.41B	131.64	Asset Management	Financials
+141	AON	Aon plc	75.82B	352.76	Insurance Brokers	Financials
+142	PNC	The PNC Financial Services Group, Inc.	75.64B	192.87	Banks - Regional	Financials
+143	WMB	The Williams Companies, Inc.	74.89B	61.32	Oil & Gas Midstream	Energy
+144	CTAS	Cintas Corporation	74.69B	185.87	Specialty Business Services	Industrials
+145	MNST	Monster Beverage Corporation	74.34B	76.09	Beverages - Non-Alcoholic	Consumer Staples
+146	EMR	Emerson Electric Co.	74.31B	132.27	Specialty Industrial Machinery	Industrials
+147	ELV	Elevance Health, Inc.	74.11B	333.48	Healthcare Plans	Healthcare
+148	CI	The Cigna Group	73.46B	275.00	Healthcare Plans	Healthcare
+149	RCL	Royal Caribbean Cruises Ltd.	72.83B	267.05	Travel Services	Consumer Discretionary
+150	MDLZ	Mondelez International, Inc.	72.83B	56.44	Confectioners	Consumer Staples
+151	EQIX	Equinix, Inc.	72.17B	735.00	REIT - Specialty	Real Estate
+152	ITW	Illinois Tool Works Inc.	72.15B	248.71	Specialty Industrial Machinery	Industrials
+153	ABNB	Airbnb, Inc.	71.88B	118.54	Travel Services	Consumer Discretionary
+154	GLW	Corning Incorporated	71.26B	83.11	Electronic Components	Technology
+155	JCI	Johnson Controls International plc	70.60B	115.53	Building Products & Equipment	Industrials
+156	COR	Cencora, Inc.	70.26B	362.17	Medical Distribution	Healthcare
+157	SPG	Simon Property Group, Inc.	70.02B	185.63	REIT - Retail	Real Estate
+158	COIN	Coinbase Global, Inc.	69.87B	259.12	Financial Data & Stock Exchanges	Financials
+159	CMI	Cummins Inc.	68.78B	498.30	Specialty Industrial Machinery	Industrials
+160	GM	General Motors Company	68.54B	73.12	Auto Manufacturers	Consumer Discretionary
+161	PWR	Quanta Services, Inc.	67.42B	452.12	Engineering & Construction	Industrials
+162	TEL	TE Connectivity plc	66.72B	226.78	Electronic Components	Technology
+163	RSG	Republic Services, Inc.	66.51B	214.85	Waste Management	Industrials
+164	AZO	AutoZone, Inc.	66.05B	3,970.96	Auto Parts	Consumer Discretionary
+165	HLT	Hilton Worldwide Holdings Inc.	65.89B	283.48	Lodging	Consumer Discretionary
+166	NSC	Norfolk Southern Corporation	65.43B	291.59	Railroads	Industrials
+167	CSX	CSX Corporation	65.38B	35.12	Railroads	Industrials
+168	TRV	The Travelers Companies, Inc.	64.98B	291.32	Insurance - Property & Casualty	Financials
+169	ADSK	Autodesk, Inc.	64.58B	305.22	Software - Application	Technology
+170	CL	Colgate-Palmolive Company	64.57B	80.11	Household & Personal Products	Consumer Staples
+171	FDX	FedEx Corporation	64.54B	273.53	Integrated Freight & Logistics	Industrials
+172	AEP	American Electric Power Company, Inc.	64.44B	120.66	Utilities - Regulated Electric	Utilities
+173	AJG	Arthur J. Gallagher & Co.	63.55B	247.48	Insurance Brokers	Financials
+174	MSI	Motorola Solutions, Inc.	62.20B	373.43	Communication Equipment	Technology
+175	FCX	Freeport-McMoRan Inc.	61.95B	43.15	Copper	Materials
+176	FTNT	Fortinet, Inc.	60.70B	81.63	Software - Infrastructure	Technology
+177	KMI	Kinder Morgan, Inc.	60.69B	27.28	Oil & Gas Midstream	Energy
+178	SRE	Sempra	60.09B	92.07	Utilities - Diversified	Utilities
+179	EOG	EOG Resources, Inc.	59.43B	109.53	Oil & Gas Exploration & Production	Energy
+180	STX	Seagate Technology Holdings plc	59.35B	272.40	Computer Hardware	Technology
+181	TFC	Truist Financial Corporation	59.34B	46.39	Banks - Regional	Financials
+182	WBD	Warner Bros. Discovery, Inc.	59.03B	23.82	Entertainment	Communication Services
+183	VST	Vistra Corp.	59.00B	174.12	Utilities - Independent Power Producers	Utilities
+184	MPC	Marathon Petroleum Corporation	58.83B	195.71	Oil & Gas Refining & Marketing	Energy
+185	PYPL	PayPal Holdings, Inc.	58.73B	62.77	Credit Services	Financials
+186	IDXX	IDEXX Laboratories, Inc.	58.31B	730.24	Diagnostics & Research	Healthcare
+187	APD	Air Products and Chemicals, Inc.	58.19B	261.42	Specialty Chemicals	Materials
+188	ROST	Ross Stores, Inc.	57.76B	177.61	Apparel Retail	Consumer Discretionary
+189	AFL	Aflac Incorporated	57.67B	110.03	Insurance - Life	Financials
+190	WDAY	Workday, Inc.	56.35B	214.27	Software - Application	Technology
+191	WDC	Western Digital Corporation	56.31B	164.71	Computer Hardware	Technology
+192	ZTS	Zoetis Inc.	56.19B	127.51	Drug Manufacturers - Specialty & Generic	Healthcare
+193	PSX	Phillips 66	56.12B	139.28	Oil & Gas Refining & Marketing	Energy
+194	DDOG	Datadog, Inc.	55.44B	158.11	Software - Application	Technology
+195	ALL	The Allstate Corporation	55.31B	211.35	Insurance - Property & Casualty	Financials
+196	VLO	Valero Energy Corporation	55.01B	180.37	Oil & Gas Refining & Marketing	Energy
+197	PCAR	PACCAR Inc	54.95B	104.63	Farm & Heavy Construction Machinery	Industrials
+198	BDX	Becton, Dickinson and Company	54.86B	192.20	Medical Instruments & Supplies	Healthcare
+199	DLR	Digital Realty Trust, Inc.	54.74B	156.54	REIT - Specialty	Real Estate
+200	SLB	SLB N.V.	54.72B	36.63	Oil & Gas Equipment & Services	Energy
+201	O	Realty Income Corporation	53.08B	57.53	REIT - Retail	Real Estate
+202	F	Ford Motor Company	52.40B	13.15	Auto Manufacturers	Consumer Discretionary
+203	D	Dominion Energy, Inc.	52.21B	61.14	Utilities - Regulated Electric	Utilities
+204	URI	United Rentals, Inc.	51.32B	806.57	Rental & Leasing Services	Industrials
+205	NDAQ	Nasdaq, Inc.	51.10B	89.49	Financial Data & Stock Exchanges	Financials
+206	LHX	L3Harris Technologies, Inc.	51.08B	273.06	Aerospace & Defense	Industrials
+207	EA	Electronic Arts Inc.	50.57B	202.77	Electronic Gaming & Multimedia	Communication Services
+208	MET	MetLife, Inc.	50.28B	76.31	Insurance - Life	Financials
+209	NXPI	NXP Semiconductors N.V.	50.23B	199.58	Semiconductors	Technology
+210	CAH	Cardinal Health, Inc.	49.82B	209.69	Medical Distribution	Healthcare
+211	EW	Edwards Lifesciences Corporation	49.61B	85.49	Medical Devices	Healthcare
+212	BKR	Baker Hughes Company	49.42B	50.08	Oil & Gas Equipment & Services	Energy
+213	PSA	Public Storage	47.99B	272.75	REIT - Industrial	Real Estate
+214	ROP	Roper Technologies, Inc.	47.68B	442.98	Software - Application	Technology
+215	XEL	Xcel Energy Inc.	47.39B	80.11	Utilities - Regulated Electric	Utilities
+216	LVS	Las Vegas Sands Corp.	47.13B	69.71	Resorts & Casinos	Consumer Discretionary
+217	CBRE	CBRE Group, Inc.	46.95B	160.17	Real Estate Services	Real Estate
+218	FAST	Fastenal Company	46.35B	40.37	Industrial Distribution	Industrials
+219	OKE	ONEOK, Inc.	46.24B	73.49	Oil & Gas Midstream	Energy
+220	TTWO	Take-Two Interactive Software, Inc.	46.14B	249.71	Electronic Gaming & Multimedia	Communication Services
+221	EXC	Exelon Corporation	46.08B	45.61	Utilities - Regulated Electric	Utilities
+222	DHI	D.R. Horton, Inc.	46.07B	157.75	Residential Construction	Consumer Discretionary
+223	CARR	Carrier Global Corporation	45.81B	54.39	Building Products & Equipment	Industrials
+224	CMG	Chipotle Mexican Grill, Inc.	45.45B	34.37	Restaurants	Consumer Discretionary
+225	AME	AMETEK, Inc.	45.35B	196.98	Specialty Industrial Machinery	Industrials
+226	CTVA	Corteva, Inc.	45.12B	66.77	Agricultural Inputs	Materials
+227	GWW	W.W. Grainger, Inc.	45.03B	946.98	Industrial Distribution	Industrials
+228	FANG	Diamondback Energy, Inc.	44.87B	156.66	Oil & Gas Exploration & Production	Energy
+229	KR	The Kroger Co.	44.83B	67.66	Grocery Stores	Consumer Staples
+230	MPWR	Monolithic Power Systems, Inc.	44.63B	931.50	Semiconductors	Technology
+231	ROK	Rockwell Automation, Inc.	44.14B	393.18	Specialty Industrial Machinery	Industrials
+232	ETR	Entergy Corporation	42.99B	95.05	Utilities - Regulated Electric	Utilities
+233	AMP	Ameriprise Financial, Inc.	42.50B	457.40	Asset Management	Financials
+234	A	Agilent Technologies, Inc.	42.38B	149.74	Diagnostics & Research	Healthcare
+235	AXON	Axon Enterprise, Inc.	42.18B	534.54	Aerospace & Defense	Industrials
+236	MSCI	MSCI Inc.	42.14B	560.82	Financial Data & Stock Exchanges	Financials
+237	FICO	Fair Isaac Corporation	42.02B	1,772.38	Software - Application	Technology
+238	YUM	Yum! Brands, Inc.	41.93B	151.03	Restaurants	Consumer Discretionary
+239	OXY	Occidental Petroleum Corporation	41.85B	42.48	Oil & Gas Exploration & Production	Energy
+240	DAL	Delta Air Lines, Inc.	41.53B	64.02	Airlines	Industrials
+241	AIG	American International Group, Inc.	41.48B	76.88	Insurance - Diversified	Financials
+242	TGT	Target Corporation	41.19B	90.98	Discount Stores	Consumer Staples
+243	PEG	Public Service Enterprise Group Incorporated	40.86B	81.86	Utilities - Regulated Electric	Utilities
+244	PAYX	Paychex, Inc.	39.73B	110.40	Software - Application	Technology
+245	XYZ	Block, Inc.	39.57B	65.12	Software - Infrastructure	Technology
+246	IQV	IQVIA Holdings Inc.	38.90B	228.42	Diagnostics & Research	Healthcare
+247	VMC	Vulcan Materials Company	38.78B	293.49	Building Materials	Materials
+248	CCI	Crown Castle Inc.	38.52B	88.45	REIT - Specialty	Real Estate
+249	KDP	Keurig Dr Pepper Inc.	38.27B	28.17	Beverages - Non-Alcoholic	Consumer Staples
+250	VTR	Ventas, Inc.	38.18B	80.69	REIT - Healthcare Facilities	Real Estate
+251	TRGP	Targa Resources Corp.	38.14B	177.66	Oil & Gas Midstream	Energy
+252	GRMN	Garmin Ltd.	38.00B	197.57	Scientific & Technical Instruments	Technology
+253	CPRT	Copart, Inc.	37.94B	39.19	Specialty Business Services	Industrials
+254	HIG	The Hartford Insurance Group, Inc.	37.93B	136.11	Insurance - Property & Casualty	Financials
+255	HSY	The Hershey Company	37.89B	186.87	Confectioners	Consumer Staples
+256	PRU	Prudential Financial, Inc.	37.81B	108.05	Insurance - Life	Financials
+257	EQT	EQT Corporation	37.78B	60.54	Oil & Gas Exploration & Production	Energy
+258	TKO	TKO Group Holdings, Inc.	37.77B	193.62	Entertainment	Communication Services
+259	EBAY	eBay Inc.	37.40B	82.74	Internet Retail	Consumer Discretionary
+260	CTSH	Cognizant Technology Solutions Corporation	37.37B	77.42	Information Technology Services	Technology
+261	MLM	Martin Marietta Materials, Inc.	37.33B	618.93	Building Materials	Materials
+262	NUE	Nucor Corporation	36.70B	160.38	Steel	Materials
+263	RMD	ResMed Inc.	36.38B	249.21	Medical Instruments & Supplies	Healthcare
+264	SYY	Sysco Corporation	36.29B	75.79	Food Distribution	Consumer Staples
+265	GEHC	GE HealthCare Technologies Inc.	36.23B	79.53	Health Information Services	Healthcare
+266	KMB	Kimberly-Clark Corporation	36.06B	108.66	Household & Personal Products	Consumer Staples
+267	WEC	WEC Energy Group, Inc.	35.77B	109.97	Utilities - Regulated Electric	Utilities
+268	WAB	Westinghouse Air Brake Technologies Corporation	35.77B	209.23	Railroads	Industrials
+269	ED	Consolidated Edison, Inc.	35.32B	97.86	Utilities - Regulated Electric	Utilities
+270	PCG	PG&E Corporation	34.87B	15.87	Utilities - Regulated Electric	Utilities
+271	OTIS	Otis Worldwide Corporation	34.42B	88.32	Specialty Industrial Machinery	Industrials
+272	FIS	Fidelity National Information Services, Inc.	34.34B	66.32	Information Technology Services	Technology
+273	EL	The Estée Lauder Companies Inc.	34.17B	94.82	Household & Personal Products	Consumer Staples
+274	XYL	Xylem Inc.	34.14B	140.23	Specialty Industrial Machinery	Industrials
+275	CCL	Carnival Corporation & plc	33.96B	25.86	Travel Services	Consumer Discretionary
+276	KEYS	Keysight Technologies, Inc.	33.77B	197.25	Scientific & Technical Instruments	Technology
+277	FISV	Fiserv, Inc.	33.66B	62.58	Software - Application	Technology
+278	ACGL	Arch Capital Group Ltd.	33.65B	93.19	Insurance - Diversified	Financials
+279	STT	State Street Corporation	33.20B	118.85	Asset Management	Financials
+280	KVUE	Kenvue Inc.	33.11B	17.28	Household & Personal Products	Consumer Staples
+281	UAL	United Airlines Holdings, Inc.	32.75B	101.15	Airlines	Industrials
+282	LEN	Lennar Corporation	32.05B	129.74	Residential Construction	Consumer Discretionary
+283	NRG	NRG Energy, Inc.	31.81B	166.00	Utilities - Independent Power Producers	Utilities
+284	EXPE	Expedia Group, Inc.	31.64B	258.24	Travel Services	Consumer Discretionary
+285	IR	Ingersoll Rand Inc.	31.49B	79.69	Specialty Industrial Machinery	Industrials
+286	VRSK	Verisk Analytics, Inc.	31.38B	225.12	Consulting Services	Industrials
+287	WTW	Willis Towers Watson Public Limited Company	30.83B	321.95	Insurance Brokers	Financials
+288	RJF	Raymond James Financial, Inc.	30.75B	156.35	Asset Management	Financials
+289	LYV	Live Nation Entertainment, Inc.	30.55B	131.58	Entertainment	Communication Services
+290	VICI	VICI Properties Inc.	30.49B	28.53	REIT - Diversified	Real Estate
+291	SNDK	Sandisk Corporation	30.49B	208.03	Computer Hardware	Technology
+292	KHC	The Kraft Heinz Company	29.99B	25.34	Packaged Foods	Consumer Staples
+293	MTD	Mettler-Toledo International Inc.	29.91B	1,464.35	Diagnostics & Research	Healthcare
+294	FOXA	Fox Corporation	29.64B	66.76	Entertainment	Communication Services
+295	ROL	Rollins, Inc.	29.50B	61.31	Personal Services	Consumer Discretionary
+296	ODFL	Old Dominion Freight Line, Inc.	29.48B	140.98	Trucking	Industrials
+297	HUM	Humana Inc.	29.33B	243.89	Healthcare Plans	Healthcare
+298	EXR	Extra Space Storage Inc.	29.32B	132.31	REIT - Industrial	Real Estate
+299	ADM	Archer-Daniels-Midland Company	29.21B	60.79	Farm Products	Consumer Staples
+300	MTB	M&T Bank Corporation	29.17B	189.81	Banks - Regional	Financials
+301	CSGP	CoStar Group, Inc.	28.99B	68.39	Real Estate Services	Real Estate
+302	EXE	Expand Energy Corporation	28.98B	121.67	Oil & Gas Exploration & Production	Energy
+303	MCHP	Microchip Technology Incorporated	28.94B	53.54	Semiconductors	Technology
+304	FITB	Fifth Third Bancorp	28.92B	43.75	Banks - Regional	Financials
+305	K	Kellanova	28.91B	83.10	Packaged Foods	Consumer Staples
+306	HPE	Hewlett Packard Enterprise Company	28.91B	21.91	Communication Equipment	Technology
+307	CHTR	Charter Communications, Inc.	28.61B	196.09	Telecom Services	Communication Services
+308	FSLR	First Solar, Inc.	28.45B	265.14	Solar	Technology
+309	TSCO	Tractor Supply Company	28.45B	53.84	Specialty Retail	Consumer Discretionary
+310	IBKR	Interactive Brokers Group, Inc.	28.25B	63.44	Capital Markets	Financials
+311	SYF	Synchrony Financial	28.19B	78.26	Credit Services	Financials
+312	TER	Teradyne, Inc.	28.16B	179.82	Semiconductor Equipment & Materials	Technology
+313	AEE	Ameren Corporation	27.98B	103.45	Utilities - Regulated Electric	Utilities
+314	WRB	W. R. Berkley Corporation	27.93B	73.50	Insurance - Property & Casualty	Financials
+315	ATO	Atmos Energy Corporation	27.92B	172.66	Utilities - Regulated Gas	Utilities
+316	BRO	Brown & Brown, Inc.	27.88B	81.66	Insurance Brokers	Financials
+317	DTE	DTE Energy Company	27.82B	133.95	Utilities - Regulated Electric	Utilities
+318	FOX	Fox Corporation	27.37B	59.41	Entertainment	Communication Services
+319	EME	EMCOR Group, Inc.	27.17B	607.00	Engineering & Construction	Industrials
+320	FE	FirstEnergy Corp.	26.90B	46.57	Utilities - Regulated Electric	Utilities
+321	CBOE	Cboe Global Markets, Inc.	26.85B	256.54	Financial Data & Stock Exchanges	Financials
+322	PPL	PPL Corporation	26.62B	35.99	Utilities - Regulated Electric	Utilities
+323	BR	Broadridge Financial Solutions, Inc.	26.48B	226.87	Information Technology Services	Technology
+324	CINF	Cincinnati Financial Corporation	26.00B	166.66	Insurance - Property & Casualty	Financials
+325	STE	STERIS plc	25.98B	264.73	Medical Devices	Healthcare
+326	BIIB	Biogen Inc.	25.98B	177.07	Drug Manufacturers - General	Healthcare
+327	HBAN	Huntington Bancshares Incorporated	25.87B	16.46	Banks - Regional	Financials
+328	EFX	Equifax Inc.	25.77B	210.59	Consulting Services	Industrials
+329	CNP	CenterPoint Energy, Inc.	25.70B	39.37	Utilities - Regulated Electric	Utilities
+330	AVB	AvalonBay Communities, Inc.	25.60B	181.02	REIT - Residential	Real Estate
+331	AWK	American Water Works Company, Inc.	25.57B	131.04	Utilities - Regulated Water	Utilities
+332	DOV	Dover Corporation	25.45B	185.58	Specialty Industrial Machinery	Industrials
+333	GIS	General Mills, Inc.	25.18B	47.20	Packaged Foods	Consumer Staples
+334	VLTO	Veralto Corporation	25.14B	101.23	Pollution & Treatment Controls	Industrials
+335	ES	Eversource Energy	24.95B	66.49	Utilities - Regulated Electric	Utilities
+336	NTRS	Northern Trust Corporation	24.83B	131.31	Asset Management	Financials
+337	PHM	PulteGroup, Inc.	24.79B	127.17	Residential Construction	Consumer Discretionary
+338	DXCM	DexCom, Inc.	24.76B	63.48	Medical Devices	Healthcare
+339	ULTA	Ulta Beauty, Inc.	24.66B	549.94	Specialty Retail	Consumer Discretionary
+340	STLD	Steel Dynamics, Inc.	24.55B	168.10	Steel	Materials
+341	IRM	Iron Mountain Incorporated	24.53B	83.00	REIT - Specialty	Real Estate
+342	LDOS	Leidos Holdings, Inc.	24.20B	189.24	Information Technology Services	Technology
+343	EQR	Equity Residential	24.11B	61.80	REIT - Residential	Real Estate
+344	DG	Dollar General Corporation	24.09B	109.44	Discount Stores	Consumer Staples
+345	STZ	Constellation Brands, Inc.	23.93B	137.49	Beverages - Brewers	Consumer Staples
+346	DVN	Devon Energy Corporation	23.78B	37.91	Oil & Gas Exploration & Production	Energy
+347	WAT	Waters Corporation	23.75B	398.89	Diagnostics & Research	Healthcare
+348	CFG	Citizens Financial Group, Inc.	23.40B	54.50	Banks - Regional	Financials
+349	TDY	Teledyne Technologies Incorporated	23.23B	494.77	Scientific & Technical Instruments	Technology
+350	VRSN	VeriSign, Inc.	23.22B	250.47	Software - Infrastructure	Technology
+351	TPR	Tapestry, Inc.	22.97B	112.23	Luxury Goods	Consumer Discretionary
+352	HPQ	HP Inc.	22.87B	24.47	Computer Hardware	Technology
+353	HUBB	Hubbell Incorporated	22.85B	429.92	Electrical Equipment & Parts	Industrials
+354	PPG	PPG Industries, Inc.	22.51B	100.30	Specialty Chemicals	Materials
+355	HAL	Halliburton Company	22.51B	26.74	Oil & Gas Equipment & Services	Energy
+356	JBL	Jabil Inc.	22.48B	210.41	Electronic Components	Technology
+357	CMS	CMS Energy Corporation	22.40B	73.60	Utilities - Regulated Electric	Utilities
+358	EIX	Edison International	22.39B	58.19	Utilities - Regulated Electric	Utilities
+359	LH	Labcorp Holdings Inc.	22.31B	269.17	Diagnostics & Research	Healthcare
+360	RL	Ralph Lauren Corporation	22.26B	367.09	Apparel Manufacturing	Consumer Discretionary
+361	RF	Regions Financial Corporation	22.24B	25.37	Banks - Regional	Financials
+362	DLTR	Dollar Tree, Inc.	22.24B	110.20	Discount Stores	Consumer Staples
+363	TROW	T. Rowe Price Group, Inc.	22.23B	101.87	Asset Management	Financials
+364	NTAP	NetApp, Inc.	22.16B	111.87	Software - Infrastructure	Technology
+365	L	Loews Corporation	22.09B	106.88	Insurance - Property & Casualty	Financials
+366	PODD	Insulet Corporation	21.93B	311.70	Medical Devices	Healthcare
+367	WSM	Williams-Sonoma, Inc.	21.79B	182.55	Specialty Retail	Consumer Discretionary
+368	LULU	lululemon athletica inc.	21.75B	183.39	Apparel Retail	Consumer Discretionary
+369	NVR	NVR, Inc.	21.42B	7,543.00	Residential Construction	Consumer Discretionary
+370	PTC	PTC Inc.	20.94B	175.31	Software - Application	Technology
+371	CPAY	Corpay, Inc.	20.77B	296.96	Software - Infrastructure	Technology
+372	IP	International Paper Company	20.66B	39.13	Packaging & Containers	Consumer Discretionary
+373	TSN	Tyson Foods, Inc.	20.66B	58.52	Farm Products	Consumer Staples
+374	NI	NiSource Inc.	20.61B	43.19	Utilities - Regulated Gas	Utilities
+375	DGX	Quest Diagnostics Incorporated	20.60B	185.22	Diagnostics & Research	Healthcare
+376	CTRA	Coterra Energy Inc.	20.60B	27.06	Oil & Gas Exploration & Production	Energy
+377	CHD	Church & Dwight Co., Inc.	20.34B	84.71	Household & Personal Products	Consumer Staples
+378	KEY	KeyCorp	20.28B	18.56	Banks - Regional	Financials
+379	DRI	Darden Restaurants, Inc.	20.28B	174.34	Restaurants	Consumer Discretionary
+380	ON	ON Semiconductor Corporation	20.20B	50.20	Semiconductors	Technology
+381	SBAC	SBA Communications Corporation	20.19B	189.52	REIT - Specialty	Real Estate
+382	TYL	Tyler Technologies, Inc.	20.04B	465.84	Software - Application	Technology
+383	INCY	Incyte Corporation	20.03B	102.05	Biotechnology	Healthcare
+384	SMCI	Super Micro Computer, Inc.	19.97B	33.46	Computer Hardware	Technology
+385	WST	West Pharmaceutical Services, Inc.	19.77B	274.82	Medical Instruments & Supplies	Healthcare
+386	TPL	Texas Pacific Land Corporation	19.76B	859.97	Oil & Gas Exploration & Production	Energy
+387	EXPD	Expeditors International of Washington, Inc.	19.68B	146.87	Integrated Freight & Logistics	Industrials
+388	AMCR	Amcor plc	19.65B	8.53	Packaging & Containers	Consumer Discretionary
+389	TRMB	Trimble Inc.	19.43B	81.68	Scientific & Technical Instruments	Technology
+390	TTD	The Trade Desk, Inc.	19.17B	39.64	Advertising Agencies	Communication Services
+391	CHRW	C.H. Robinson Worldwide, Inc.	18.97B	160.54	Integrated Freight & Logistics	Industrials
+392	ZBH	Zimmer Biomet Holdings, Inc.	18.92B	95.47	Medical Devices	Healthcare
+393	CNC	Centene Corporation	18.74B	38.12	Healthcare Plans	Healthcare
+394	BG	Bunge Global SA	18.67B	96.56	Farm Products	Consumer Staples
+395	CDW	CDW Corporation	18.65B	143.25	Information Technology Services	Technology
+396	SW	Smurfit Westrock Plc	18.63B	35.77	Packaging & Containers	Consumer Discretionary
+397	PFG	Principal Financial Group, Inc.	18.61B	84.71	Asset Management	Financials
+398	PKG	Packaging Corporation of America	18.22B	203.86	Packaging & Containers	Consumer Discretionary
+399	GPN	Global Payments Inc.	18.15B	76.65	Specialty Business Services	Industrials
+400	GPC	Genuine Parts Company	18.11B	130.21	Auto Parts	Consumer Discretionary
+401	LUV	Southwest Airlines Co.	17.93B	34.67	Airlines	Industrials
+402	MKC	McCormick & Company, Incorporated	17.84B	66.46	Packaged Foods	Consumer Staples
+403	IFF	International Flavors & Fragrances Inc.	17.76B	69.33	Specialty Chemicals	Materials
+404	SNA	Snap-on Incorporated	17.64B	339.19	Tools & Accessories	Industrials
+405	ESS	Essex Property Trust, Inc.	17.52B	262.86	REIT - Residential	Real Estate
+406	LNT	Alliant Energy Corporation	17.40B	67.69	Utilities - Regulated Electric	Utilities
+407	EVRG	Evergy, Inc.	17.39B	75.53	Utilities - Regulated Electric	Utilities
+408	GDDY	GoDaddy Inc.	17.37B	128.51	Software - Infrastructure	Technology
+409	PSKY	Paramount Skydance Corporation	17.34B	15.80	Entertainment	Communication Services
+410	PNR	Pentair plc	17.28B	105.62	Specialty Industrial Machinery	Industrials
+411	LII	Lennox International Inc.	17.28B	492.74	Building Products & Equipment	Industrials
+412	INVH	Invitation Homes Inc.	17.22B	28.00	REIT - Residential	Real Estate
+413	JBHT	J.B. Hunt Transport Services, Inc.	17.10B	179.58	Integrated Freight & Logistics	Industrials
+414	DOW	Dow Inc.	17.00B	23.92	Chemicals	Materials
+415	FTV	Fortive Corporation	16.84B	53.03	Scientific & Technical Instruments	Technology
+416	DD	DuPont de Nemours, Inc.	16.78B	40.05	Specialty Chemicals	Materials
+417	APTV	Aptiv PLC	16.74B	77.47	Auto Parts	Consumer Discretionary
+418	IT	Gartner, Inc.	16.69B	231.54	Information Technology Services	Technology
+419	HOLX	Hologic, Inc.	16.68B	74.84	Medical Instruments & Supplies	Healthcare
+420	Q	Qnity Electronics, Inc.	16.40B	78.30	Semiconductor Equipment & Materials	Technology
+421	MAA	Mid-America Apartment Communities, Inc.	16.29B	135.76	REIT - Residential	Real Estate
+422	BBY	Best Buy Co., Inc.	16.25B	77.36	Specialty Retail	Consumer Discretionary
+423	GEN	Gen Digital Inc.	16.16B	26.21	Software - Infrastructure	Technology
+424	WY	Weyerhaeuser Company	16.02B	22.23	REIT - Specialty	Real Estate
+425	J	Jacobs Solutions Inc.	15.91B	134.01	Engineering & Construction	Industrials
+426	LYB	LyondellBasell Industries N.V.	15.50B	48.15	Specialty Chemicals	Materials
+427	COO	The Cooper Companies, Inc.	15.44B	77.68	Medical Instruments & Supplies	Healthcare
+428	ERIE	Erie Indemnity Company	15.39B	294.34	Insurance Brokers	Financials
+429	ALB	Albemarle Corporation	15.13B	128.56	Specialty Chemicals	Materials
+430	UHS	Universal Health Services, Inc.	15.12B	241.94	Medical Care Facilities	Healthcare
+431	NWS	News Corporation	15.07B	29.09	Entertainment	Communication Services
+432	SOLV	Solventum Corporation	14.85B	85.64	Medical Instruments & Supplies	Healthcare
+433	TXT	Textron Inc.	14.52B	82.41	Aerospace & Defense	Industrials
+434	NWSA	News Corporation	14.33B	25.61	Entertainment	Communication Services
+435	DPZ	Domino's Pizza, Inc.	14.30B	423.33	Restaurants	Consumer Discretionary
+436	ALLE	Allegion plc	14.27B	165.88	Security & Protection Services	Industrials
+437	BF.B	Brown-Forman Corporation	14.10B	29.83	Beverages - Wineries & Distilleries	Consumer Staples
+438	KIM	Kimco Realty Corporation	13.94B	20.54	REIT - Retail	Real Estate
+439	FFIV	F5, Inc.	13.91B	239.38	Software - Infrastructure	Technology
+440	OMC	Omnicom Group Inc.	13.89B	71.96	Advertising Agencies	Communication Services
+441	WYNN	Wynn Resorts, Limited	13.73B	133.35	Resorts & Casinos	Consumer Discretionary
+442	MAS	Masco Corporation	13.48B	64.89	Building Products & Equipment	Industrials
+443	DECK	Deckers Outdoor Corporation	13.46B	92.37	Footwear & Accessories	Consumer Discretionary
+444	AVY	Avery Dennison Corporation	13.38B	173.08	Packaging & Containers	Consumer Discretionary
+445	NDSN	Nordson Corporation	13.25B	235.85	Specialty Industrial Machinery	Industrials
+446	REG	Regency Centers Corporation	13.20B	70.89	REIT - Retail	Real Estate
+447	BALL	Ball Corporation	13.16B	49.12	Packaging & Containers	Consumer Discretionary
+448	UDR	UDR, Inc.	13.16B	36.31	REIT - Residential	Real Estate
+449	EG	Everest Group, Ltd.	13.13B	312.85	Insurance - Reinsurance	Financials
+450	IEX	IDEX Corporation	13.08B	174.71	Specialty Industrial Machinery	Industrials
+451	CLX	The Clorox Company	13.00B	106.60	Household & Personal Products	Consumer Staples
+452	DOC	Healthpeak Properties, Inc.	12.88B	18.19	REIT - Healthcare Facilities	Real Estate
+453	HRL	Hormel Foods Corporation	12.83B	23.33	Packaged Foods	Consumer Staples
+454	BXP	BXP, Inc.	12.79B	72.33	REIT - Office	Real Estate
+455	ZBRA	Zebra Technologies Corporation	12.79B	252.39	Communication Equipment	Technology
+456	AKAM	Akamai Technologies, Inc.	12.70B	88.25	Software - Infrastructure	Technology
+457	JKHY	Jack Henry & Associates, Inc.	12.66B	174.95	Information Technology Services	Technology
+458	BLDR	Builders FirstSource, Inc.	12.51B	113.13	Building Products & Equipment	Industrials
+459	CF	CF Industries Holdings, Inc.	12.48B	80.04	Agricultural Inputs	Materials
+460	VTRS	Viatris Inc.	12.31B	10.69	Drug Manufacturers - Specialty & Generic	Healthcare
+461	HST	Host Hotels & Resorts, Inc.	12.21B	17.54	REIT - Hotel & Motel	Real Estate
+462	HII	Huntington Ingalls Industries, Inc.	12.11B	308.62	Aerospace & Defense	Industrials
+463	BEN	Franklin Resources, Inc.	11.75B	22.56	Asset Management	Financials
+464	HAS	Hasbro, Inc.	11.67B	83.17	Leisure	Consumer Discretionary
+465	RVTY	Revvity, Inc.	11.67B	102.90	Diagnostics & Research	Healthcare
+466	CPT	Camden Property Trust	11.49B	106.37	REIT - Residential	Real Estate
+467	AIZ	Assurant, Inc.	11.36B	226.77	Insurance - Property & Casualty	Financials
+468	DAY	Dayforce Inc.	11.06B	69.11	Software - Application	Technology
+469	SJM	The J. M. Smucker Company	11.04B	103.48	Packaged Foods	Consumer Staples
+470	SWK	Stanley Black & Decker, Inc.	10.98B	70.91	Tools & Accessories	Industrials
+471	IVZ	Invesco Ltd.	10.98B	24.67	Asset Management	Financials
+472	PNW	Pinnacle West Capital Corporation	10.70B	89.41	Utilities - Regulated Electric	Utilities
+473	GL	Globe Life Inc.	10.57B	132.79	Insurance - Life	Financials
+474	ALGN	Align Technology, Inc.	10.55B	147.08	Medical Instruments & Supplies	Healthcare
+475	EPAM	EPAM Systems, Inc.	10.54B	190.75	Information Technology Services	Technology
+476	FDS	FactSet Research Systems Inc.	10.45B	279.16	Financial Data & Stock Exchanges	Financials
+477	AES	The AES Corporation	9.96B	13.99	Utilities - Diversified	Utilities
+478	TECH	Bio-Techne Corporation	9.95B	63.89	Biotechnology	Healthcare
+479	SWKS	Skyworks Solutions, Inc.	9.81B	65.98	Semiconductors	Technology
+480	BAX	Baxter International Inc.	9.75B	18.97	Medical Instruments & Supplies	Healthcare
+481	MGM	MGM Resorts International	9.70B	35.47	Resorts & Casinos	Consumer Discretionary
+482	MRNA	Moderna, Inc.	9.55B	24.43	Biotechnology	Healthcare
+483	TAP	Molson Coors Beverage Company	9.27B	46.92	Beverages - Brewers	Consumer Staples
+484	AOS	A. O. Smith Corporation	9.22B	66.20	Specialty Industrial Machinery	Industrials
+485	ARE	Alexandria Real Estate Equities, Inc.	9.18B	53.13	REIT - Office	Real Estate
+486	POOL	Pool Corporation	9.13B	245.17	Industrial Distribution	Industrials
+487	CPB	The Campbell's Company	9.11B	30.61	Packaged Foods	Consumer Staples
+488	APA	APA Corporation	8.99B	25.36	Oil & Gas Exploration & Production	Energy
+489	PAYC	Paycom Software, Inc.	8.86B	161.39	Software - Application	Technology
+490	GNRC	Generac Holdings Inc.	8.79B	149.73	Specialty Industrial Machinery	Industrials
+491	CRL	Charles River Laboratories International, Inc.	8.75B	177.83	Diagnostics & Research	Healthcare
+492	HSIC	Henry Schein, Inc.	8.65B	73.51	Medical Distribution	Healthcare
+493	FRT	Federal Realty Investment Trust	8.54B	98.44	REIT - Retail	Real Estate
+494	CAG	Conagra Brands, Inc.	8.48B	17.73	Packaged Foods	Consumer Staples
+495	NCLH	Norwegian Cruise Line Holdings Ltd.	8.46B	18.59	Travel Services	Consumer Discretionary
+496	DVA	DaVita Inc.	8.46B	119.82	Medical Care Facilities	Healthcare
+497	LW	Lamb Weston Holdings, Inc.	8.35B	59.91	Packaged Foods	Consumer Staples
+498	MTCH	Match Group, Inc.	7.94B	33.65	Internet Content & Information	Communication Services
+499	MOS	The Mosaic Company	7.90B	24.89	Agricultural Inputs	Materials
+500	LKQ	LKQ Corporation	7.55B	29.50	Auto Parts	Consumer Discretionary
+501	MOH	Molina Healthcare, Inc.	7.55B	146.81	Healthcare Plans	Healthcare
+502	SOLS	Solstice Advanced Materials, Inc.	7.53B	47.41	Specialty Chemicals	Materials
+503	MHK	Mohawk Industries, Inc.	7.14B	115.53	Furnishings, Fixtures & Appliances	Consumer Discretionary
