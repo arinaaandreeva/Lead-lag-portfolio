@@ -393,7 +393,6 @@ def walk_forward_backtest(
     final_value = history_df['portfolio_value'].iloc[-1]
     total_return = (final_value / initial_capital - 1) * 100
 
-    print("\n" + "=" * 70)
     print(f"FINAL VALUE: ${final_value:,.2f}")
     print(f"TOTAL RETURN: {total_return:+.2f}%")
 
@@ -467,8 +466,10 @@ if __name__ == "__main__":
             prices_df=returns_df,
             params=params,
             cat_features=cat_features,
-            step_weeks=5,
-            prob_threshold=0.65
+            step_weeks=4,
+            prob_threshold=0.6,
+            top_k=50
+
         )
 
         full_df_no_leaders = create_full_dataset(
@@ -484,8 +485,9 @@ if __name__ == "__main__":
             prices_df=returns_df,
             params=params,
             cat_features=cat_features,
-            step_weeks=5,
-            prob_threshold=0.65
+            step_weeks=4,
+            prob_threshold=0.6,
+            top_k=50
         )
 
         plt.figure(figsize=(12, 6))
